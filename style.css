@@ -43,7 +43,7 @@ label div {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    background: linear-gradient(to bottom, rgb(0, 68, 83) 0%, rgb(0, 100, 123) 30%, rgb(0, 153, 188) 70%);
+    background: linear-gradient(to bottom, rgb(42, 42, 42) 0%, rgb(50, 54, 54) 30%, rgb(146, 146, 146) 70%);
     border-radius: 25px;
 }
 
